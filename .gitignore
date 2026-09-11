@@ -1,0 +1,16 @@
+# segredos locais (token do Real)
+bridge/config.json
+
+# artefatos de teste do Playwright
+.playwright-mcp/
+
+# python
+__pycache__/
+*.pyc
+
+# windows
+Thumbs.db
+Desktop.ini
+
+# node
+node_modules/

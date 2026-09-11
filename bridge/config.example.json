@@ -1,0 +1,9 @@
+{
+  "ws_port": 17614,
+  "real_urls": [
+    "http://127.0.0.1:3872/mcp"
+  ],
+  "token": "COLE_AQUI_O_TOKEN_DO_REAL",
+  "request_timeout": 110,
+  "tools_ttl": 15
+}
